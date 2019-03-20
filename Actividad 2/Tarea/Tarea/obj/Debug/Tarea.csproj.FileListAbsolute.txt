@@ -1,0 +1,12 @@
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\bin\Debug\Tarea.exe.config
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\bin\Debug\Tarea.exe
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\bin\Debug\Tarea.pdb
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\obj\Debug\Tarea.exe
+D:\Desktop\Progra1\Tarea Uni2\Tarea\Tarea\obj\Debug\Tarea.pdb
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\bin\Debug\Tarea.exe.config
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\obj\Debug\Tarea.exe
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\obj\Debug\Tarea.pdb
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\bin\Debug\Tarea.exe
+D:\Desktop\Tarea 2 progra\Actividad 2\Tarea\Tarea\bin\Debug\Tarea.pdb
